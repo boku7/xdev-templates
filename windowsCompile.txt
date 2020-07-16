@@ -1,0 +1,2 @@
+apt install gcc-mingw-w64-i686 wine64
+i686-w64-mingw32-gcc bindshell2.c -l ws2_32
